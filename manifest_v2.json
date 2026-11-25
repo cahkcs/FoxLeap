@@ -21,7 +21,18 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "爱发电",
+      "url": "https://ifdian.net/item/6f89eac6e8c911f1ac3c52540025c377",
+      "icon": "facebook-logo"
+    },
+    {
+      "title": "官网",
+      "url": "https://mi.steam.cab/",
+      "icon": "book-open"
+    }
+  ],
   "downloads": {
     "xmrw6": {
       "version": "0.0.1",
