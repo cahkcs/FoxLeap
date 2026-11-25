@@ -1,107 +1,109 @@
 {
-    "item": {
-        "name": "赤狐冒险",
-        "id": "979820261301",
-        "restype": "watchface",
-        "description": "《赤狐冒险》（FoxLeap）是一款原创横版跳跃游戏，专为手环与手表屏幕设计。你将操控一只赤狐，在赤丘、林间、洞穴、岩窟、夜岭、木桥、废墟、溪谷、雪原、月林十个章节、共一百关中奔跑、跳跃、下蹲钻行。\n\n路上可以采集浆果回血，拾取松果暂时变大、叶盾抵挡伤害、风籽减缓下落；碰到小铃可在此重生，到达铜铃即可通关。商店能用通关积分兑换雪狐、夜狐、秋叶、青岚等皮肤（默认赤狐可直接使用）。累计浆果还可解锁绛穗耳饰，以及隐果谷奖金关。\n\n摇杆左右移动、上推跳跃。标题页可打开说明、商店和设置，也能从关卡选择进入已解锁的关卡。适合在腕间来一段短冒险。\n\n本游戏适配小米手环9 10 11全部固件版本，小米手环9 10pro全部固件版本,适配红米手表6",
-        "icon": "icon.png",
-        "cover": "cover.png",
-        "preview": [
-            "preview-1.png",
-            "preview-2.png",
-            "preview-3.png",
-            "preview-4.png",
-            "preview-5.png",
-            "preview-6.png"
-        ],
-        "author": [
-            {
-                "name": "cahkcs"
-            }
-        ]
-    },
-    "links": [
-        {
-            "title": "爱发电",
-            "url": "https://ifdian.net/item/6f89eac6e8c911f1ac3c52540025c377",
-            "icon": "facebook-logo"
-        },
-        {
-            "title": "官网",
-            "url": "https://mi.steam.cab/",
-            "icon": "book-open"
-        }
+  "item": {
+    "id": "979820261301",
+    "restype": "watchface",
+    "name": "赤狐冒险",
+    "description": "《赤狐冒险》（FoxLeap）是一款原创横版跳跃游戏，专为手环与手表屏幕设计。你将操控一只赤狐，在赤丘、林间、洞穴、岩窟、夜岭、木桥、废墟、溪谷、雪原、月林十个章节、共一百关中奔跑、跳跃、下蹲钻行。\n\n路上可以采集浆果回血，拾取松果暂时变大、叶盾抵挡伤害、风籽减缓下落；碰到小铃可在此重生，到达铜铃即可通关。商店能用通关积分兑换雪狐、夜狐、秋叶、青岚等皮肤（默认赤狐可直接使用）。累计浆果还可解锁绛穗耳饰，以及隐果谷奖金关。\n\n摇杆左右移动、上推跳跃。标题页可打开说明、商店和设置，也能从关卡选择进入已解锁的关卡。适合在腕间来一段短冒险。\n\n本游戏适配小米手环9 10 11全部固件版本，小米手环9 10pro全部固件版本,适配红米手表6",
+    "preview": [
+      "media/3b3d2b8a75304e0e2498b4a28db58ce4b538cca306b75b0918ad4e93e748bac7.png",
+      "media/8f4595d13f17bfac7c5c9e3bed6cb1d68d136419efd13b4960607d4266d81612.png",
+      "media/8577256d94d0cab34f413f5fe86122f92bdf42b6fceeb7fa96fe9b9bbd972e56.png",
+      "media/a.png",
+      "media/a5aa92360d961ac0c699e1eaf317f31d59c0df431933a3456104499591494900.png",
+      "media/b.png"
     ],
-    "downloads": {
-        "xmrw6": {
-            "file_name": "xmrw6.face",
-            "version": "0.0.1",
-            "versionCode": 1
-        },
-        "xmb10": {
-            "file_name": "xmb10.face",
-            "version": "0.0.1",
-            "versionCode": 1
-        },
-        "xmb10nfc": {
-            "file_name": "xmb10nfc.face",
-            "version": "0.0.1",
-            "versionCode": 1
-        },
-        "xmb10p": {
-            "file_name": "xmb10p.face",
-            "version": "0.0.1",
-            "versionCode": 1
-        },
-        "xmb11": {
-            "file_name": "xmb11.face",
-            "version": "0.0.1",
-            "versionCode": 1
-        },
-        "xmb11nfc": {
-            "file_name": "xmb11nfc.face",
-            "version": "0.0.1",
-            "versionCode": 1
-        },
-        "xmb9": {
-            "file_name": "xmb9.face",
-            "version": "0.0.1",
-            "versionCode": 1
-        },
-        "xmb9p": {
-            "file_name": "xmb9p.face",
-            "version": "0.0.1",
-            "versionCode": 1
-        },
-        "xmws3": {
-            "file_name": "xmws3.face",
-            "version": "0.0.1",
-            "versionCode": 1
-        },
-        "xmws4xring": {
-            "file_name": "xmws4xring.face",
-            "version": "0.0.1",
-            "versionCode": 1
-        },
-        "xmws441": {
-            "file_name": "xmws441.face",
-            "version": "0.0.1",
-            "versionCode": 1
-        },
-        "xmws4": {
-            "file_name": "xmws4.face",
-            "version": "0.0.1",
-            "versionCode": 1
-        },
-        "xmws541": {
-            "file_name": "xmws541.face",
-            "version": "0.0.1",
-            "versionCode": 1
-        },
-        "xmws5": {
-            "file_name": "xmws5.face",
-            "version": "0.0.1",
-            "versionCode": 1
-        }
+    "icon": "media/icon.png",
+    "cover": "media/3-2.png",
+    "author": [
+      {
+        "name": "cahkcs",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "爱发电",
+      "url": "https://ifdian.net/item/6f89eac6e8c911f1ac3c52540025c377",
+      "icon": "facebook-logo"
+    },
+    {
+      "title": "官网",
+      "url": "https://mi.steam.cab/",
+      "icon": "book-open"
     }
+  ],
+  "downloads": {
+    "xmrw6": {
+      "version": "1.0.8",
+      "file_name": "downloads/赤狐冒险-红米手表6-v1.0.8.face",
+      "versionCode": 65544
+    },
+    "xmb10": {
+      "version": "1.0.8",
+      "file_name": "downloads/赤狐冒险-手环10和11-v1.0.8.face",
+      "versionCode": 65544
+    },
+    "xmb10nfc": {
+      "version": "1.0.8",
+      "file_name": "downloads/赤狐冒险-手环10和11-v1.0.8.face",
+      "versionCode": 65544
+    },
+    "xmb10p": {
+      "version": "1.0.8",
+      "file_name": "downloads/赤狐冒险-手环8Pro和9Pro及10Pro-v1.0.8.face",
+      "versionCode": 65544
+    },
+    "xmb11": {
+      "version": "1.0.8",
+      "file_name": "downloads/赤狐冒险-手环10和11-v1.0.8.face",
+      "versionCode": 65544
+    },
+    "xmb11nfc": {
+      "version": "1.0.8",
+      "file_name": "downloads/赤狐冒险-手环10和11-v1.0.8.face",
+      "versionCode": 65544
+    },
+    "xmb9": {
+      "version": "1.0.8",
+      "file_name": "downloads/赤狐冒险-手环9-v1.0.8.face",
+      "versionCode": 65544
+    },
+    "xmb9p": {
+      "version": "1.0.8",
+      "file_name": "downloads/赤狐冒险-手环8Pro和9Pro及10Pro-v1.0.8.face",
+      "versionCode": 65544
+    },
+    "xmws3": {
+      "version": "1.0.8",
+      "file_name": "downloads/赤狐冒险-小米手表S1Pro和S5-v1.0.8.face",
+      "versionCode": 65544
+    },
+    "xmws4xring": {
+      "version": "1.0.8",
+      "file_name": "downloads/赤狐冒险-小米手表S4-v1.0.8.face",
+      "versionCode": 65544
+    },
+    "xmws441": {
+      "version": "1.0.8",
+      "file_name": "downloads/赤狐冒险-小米手表S4-v1.0.8.face",
+      "versionCode": 65544
+    },
+    "xmws4": {
+      "version": "1.0.8",
+      "file_name": "downloads/赤狐冒险-小米手表S4-v1.0.8.face",
+      "versionCode": 65544
+    },
+    "xmws541": {
+      "version": "1.0.8",
+      "file_name": "downloads/赤狐冒险-小米手表S1Pro和S5-v1.0.8.face",
+      "versionCode": 65544
+    },
+    "xmws5": {
+      "version": "1.0.8",
+      "file_name": "downloads/赤狐冒险-小米手表S1Pro和S5-v1.0.8.face",
+      "versionCode": 65544
+    }
+  },
+  "ext": {}
 }
